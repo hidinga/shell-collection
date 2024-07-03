@@ -1,1 +1,1 @@
-shell 脚本
+常用的 shell 脚本
