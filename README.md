@@ -1,1 +1,1 @@
-常用的 shell 脚本
+windows　版　sed、　awk　应用
