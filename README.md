@@ -1,1 +1,1 @@
-windows版sed、awk应用
+windows版本的sed、awk的应用场景
