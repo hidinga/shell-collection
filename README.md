@@ -1,1 +1,1 @@
-windows　版　sed、　awk　应用
+windows版sed、awk应用
